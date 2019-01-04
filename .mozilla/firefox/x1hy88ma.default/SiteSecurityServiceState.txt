@@ -1,0 +1,1 @@
+shavar.services.mozilla.com:HSTS	0	17898	1577971451498,1,1
