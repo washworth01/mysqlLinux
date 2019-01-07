@@ -56,7 +56,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/adminwa/logic.sh" added="2019-01-04T16:06:21Z" modified="2019-01-04T17:25:58Z" visited="2019-01-04T16:06:21Z">
+  <bookmark href="file:///home/adminwa/logic.sh" added="2019-01-04T16:06:21Z" modified="2019-01-07T13:39:53Z" visited="2019-01-04T16:06:21Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-shellscript"/>
@@ -64,7 +64,82 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-01-04T17:25:58Z" count="3"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-01-07T13:39:53Z" count="71"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adminwa/folder/test.db" added="2019-01-07T10:34:13Z" modified="2019-01-07T10:34:13Z" visited="2019-01-07T10:34:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-01-07T10:34:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adminwa/inCase.txt" added="2019-01-07T10:42:53Z" modified="2019-01-07T10:46:44Z" visited="2019-01-07T10:42:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-01-07T10:46:44Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adminwa/folder/testy.csv" added="2019-01-07T11:03:25Z" modified="2019-01-07T11:03:25Z" visited="2019-01-07T11:03:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-01-07T11:03:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adminwa/logic%20(copy).sh" added="2019-01-07T13:31:15Z" modified="2019-01-07T13:31:25Z" visited="2019-01-07T13:31:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-01-07T13:31:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adminwa/logic2.sh" added="2019-01-07T13:31:43Z" modified="2019-01-07T13:32:54Z" visited="2019-01-07T13:31:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-01-07T13:32:54Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adminwa/folder/test1.db" added="2019-01-07T13:41:26Z" modified="2019-01-07T13:41:26Z" visited="2019-01-07T13:41:26.293536Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-sqlite3"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;sqlitebrowser %f&apos;" modified="2019-01-07T13:41:26Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

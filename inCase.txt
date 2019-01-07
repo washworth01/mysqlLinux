@@ -1,0 +1,12 @@
+mysql -u root -p -e "SQL_QUERY" > latestVersion.txt
+mysql -h /home/adminwa/folder/test.db -u root -p root -e "show databases"
+
+ls ~/folder/[0-9]*[!0-9]*.sql | egrep -o [0-9]+ | tee list.txt
+
+if[cat list.txt | tail -n 1 -gt cat versionID]
+then
+
+else
+	echo "You are already up-to-date"
+fi
+

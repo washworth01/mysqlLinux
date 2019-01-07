@@ -666,3 +666,65 @@ cat list.txt | tail1
 cat list.txt | tail -n 1
 sudo apt-get install sqlite3
 sqlite3
+cd folder
+ls
+ls [0-9]*[!0-9]*sql
+ls [0-9][!0-9]*sql
+ls [0-9]*sql
+touch 1stuff.sql
+ls [0-9]*[!0-9]*sql
+ls [0-9]*[!0-9]*sql | egrep -o
+ls [0-9]*[!0-9]*sql | egrep -o [0-9]
+ls [0-9]*[!0-9]*sql | egrep -o [0-9]+
+ls [0-9]*[!0-9]*sql | egrep -o [0-9]+ | sort -n
+cd
+ls ~/folder ls [0-9]*[!0-9]*.sql | egrep -o [0-9]+| sort -n
+ls ~/folder ls [0-9]*[!0-9]*sql | egrep -o [0-9]+| sort -n
+cd folder
+ls [0-9]*[!0-9]*sql | egrep -o [0-9]+ | sort -n
+grep --help
+cd
+sqlite3 DemoDatabase.db
+sudo apt-get install git
+git config --global user.name "washworth01"
+git config --global user.email washworth01@gmail.com
+git init
+git add .
+git commit -m "First commit, removed numbers, starting logic"
+git remote add origin https://github.com/washworth01/mysqlLinux.git
+git push -u origin master
+cd foler
+cd fodler
+cd folder
+touch latestVersion.txt
+sqlite3 test1.db
+sqlite3 /home/adminwa/test.sql
+sqlite3 /home/adminwa/test.sql "Create DATABASE test;"
+sqlite3 /home/adminwa/test.sql "CREATE DATABASE test;"
+sqlite3 /home/adminwa/test.sql "CREATE test;"
+sqlite3 /home/adminwa/test.sql "test.db;"
+sqlite3 /home/adminwa/test.sql 'test.db;'
+sqlite3 /home/adminwa/test.sql 'CREATE DATABASE test;'
+cd folder
+sqlite test.db
+sqlite3 test.db
+touch tablespt.sh
+nano tablespt.sh 
+sqlite3 test.db
+nano logic.sh
+ls
+cat test.db
+ls .sqlite3 test.db 
+.sqlite3 test.db tee newList.txt
+test.db tee newList.txt
+tee test.db newList.txt
+ls test.db
+ls test.db tee newList.txt
+nano test.db
+sqlite3 test.db
+ls
+cd ..
+ls
+./logic.sh
+ls
+./logic.sh

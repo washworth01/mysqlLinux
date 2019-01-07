@@ -1,1 +1,5 @@
 WARN  2019-01-04 16:57:56 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+WARN  2019-01-07 11:05:20 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+WARN  2019-01-07 11:07:00 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+WARN  2019-01-07 11:14:19 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+WARN  2019-01-07 11:17:51 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
