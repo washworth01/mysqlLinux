@@ -7,20 +7,16 @@
 #sqlite3 .output stdout
 #sqlite3 .exit
 
-version=$(sqlite3 /home/adminwa/folder/test1.db "SELECT * FROM version")
+version=$(sqlite3 /home/adminwa/folder/test1.db "SELECT versionID FROM version")
 
-echo "$version"
+ls ~/folder/ | grep .sql | egrep -o ^[0-9]+ | sort -n | tee list.txt
 
-ls ~/folder/[0-9]*[!0-9]*.sql | egrep -o [0-9]+ | sort -n | tee list.txt
 file="/home/adminwa/list.txt"
-
 new=$(cat list.txt | tail -n 1)
 
 if [ "$new" -gt "$version" ]
 then
-	echo "result was larger"
-	#looper = 1;
-	#latest=$(cat list.txt)
+	echo "Game needs Patching"
 	while IFS= read -r line 
 	do
 		echo "$line"
@@ -30,4 +26,6 @@ then
 	
 		fi
 	done <"$file"
+else 
+	echo "Game is up-to-date"
 fi

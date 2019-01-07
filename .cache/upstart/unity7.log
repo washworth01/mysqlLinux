@@ -3,3 +3,6 @@ WARN  2019-01-07 11:05:20 unity.shell.compiz unityshell.cpp:3241 Animation plugi
 WARN  2019-01-07 11:07:00 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
 WARN  2019-01-07 11:14:19 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
 WARN  2019-01-07 11:17:51 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+WARN  2019-01-07 15:58:58 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+WARN  2019-01-07 16:20:19 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+WARN  2019-01-07 16:39:42 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.

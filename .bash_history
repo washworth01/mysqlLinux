@@ -728,3 +728,210 @@ ls
 ./logic.sh
 ls
 ./logic.sh
+cat list.txt | tail -n 1
+./logic.sh
+cat list.txt | tail -n 1
+./logic.sh
+ls
+cd folder
+ls
+ls -l
+chmod u+x list.txt
+./logic.sh
+cd
+./logic.sh
+cd ..
+ls
+cd /home/adminwa/folder
+ls
+./logic.sh
+cd
+./logic.sh
+./logic2.sh
+./logic.sh
+sqlite3 test.db
+sqlite3 test1.db
+git inti
+git init
+git add .
+git commit -m "Second commit, updates table id"
+git remote add origin #!/bin/bash
+#sqlite3 test1.db 
+#sqlite3 .mode csv
+#sqlite3 .output testy1.csv
+#sqlite3 select * from version;
+#sqlite3 .output stdout
+#sqlite3 .exit
+version=$(sqlite3 /home/adminwa/folder/test1.db "SELECT * FROM version")
+echo "$version"
+ls ~/folder/[0-9]*[!0-9]*.sql | egrep -o [0-9]+ | sort -n | tee list.txt
+file="/home/adminwa/list.txt"
+new=$(cat list.txt | tail -n 1)
+if [ "$new" -gt "$version" ]; then echo "result was larger" while IFS= read -r line ; do e"
+e" -gt "$version" ];  wa/folder/test1.db "UPDATE version SET versionID = $line WHERE versionID < $line";  e <"$file"
+#sqlite3 test1.db 
+#sqlite3 .mode csv
+#sqlite3 .output testy1.csv
+#sqlite3 select * from version;
+#sqlite3 .output stdout
+#sqlite3 .exit
+version=$(sqlite3 /home/adminwa/folder/test1.db "SELECT * FROM version")
+echo "$version"
+ls ~/folder/[0-9]*[!0-9]*.sql | egrep -o [0-9]+ | sort -n | tee list.txt
+file="/home/adminwa/list.txt"
+new=$(cat list.txt | tail -n 1)
+if [ "$new" -gt "$version" ]; then echo "result was larger" while IFS= read -r line ; do e"
+e" -gt "$version" ];  wa/folder/test1.db "UPDATE version SET versionID = $line WHERE versionID < $line";  e <"$file"
+git remote add orign git.https://github.com/washworth01/mysqlLinux
+git push origin master
+ls ~/folder/[^0-9]*[!0-9]*.sql | egrep -o [0-9]+ | sort -n 
+ls ~/folder/[0-9]*[!0-9]*.sql | egrep -o [0-9]+ | sort -n 
+ls ~/folder/^\s*(\d+)\w*.sql
+ls ~/folder/\d+
+ls ~/folder/d+
+ls ~/folder/^\d+$
+ls ~/folder/sed 's/^[^-]*'
+ls ~/folder/ |  sed 's/^[^-]*'
+ls ~/folder/ | /d+
+ls ~/folder/ | d+
+ls ~/folder/ | sed d+
+ls ~/folder/ | sed /d+
+ls ~/folder/ | sed -e  /d+
+ls ~/folder/ | sed [^0-9]+([0-9]+).+
+ls ~/folder/ | sed '[^0-9]+([0-9]+).+'
+ls ~/folder/ | '[^0-9]+([0-9]+).+'
+ls ~/folder/ | [^0-9]+([0-9]+).+
+ls ~/folder/ | egrep [^0-9]+([0-9]+).+
+ls ~/folder/ | egrep - o [^0-9]+([0-9]+).+
+ls ~/folder/ | egrep -o [^0-9]+([0-9]+).+
+ls ~/folder/ | grep -o [^0-9]+([0-9]+).+
+ls ~/folder/ | e grep -o [^0-9]+([0-9]+).+
+ls ~/folder/ | egrep -o [^0-9]+([0-9]+).+
+ls ~/folder/ | egrep -o [^0-9]+([0-9]+)[^0-9]+([0-9]+).+
+ls ~/folder/ | egrep -o /d+
+ls ~/folder/ | grep -o /d+
+ls ~/folder/ | grepo /d+
+ls ~/folder/ | grep /d+
+ls ~/folder/ | egrep -o ^\s*\D+
+ls ~/folder/ | egrep -o ^\s*(\d+)
+ls ~/folder/ | grep -o ^\s*(\d+)
+ls ~/folder/ | egrep -o ^\s*(\w+)\s\(\s*(\d+)\D+(\d+)\D+\)s*$
+cd folder
+ls ~/folder/ | egrep -o ^\s*(\w+)\s\(\s*(\d+)\D+(\d+)\D+\)s*$
+grep -o ^\s*(\w+)\s\(\s*(\d+)\D+(\d+)\D+\)s*$
+
+ls ~/folder/ | egrep -o ^\s*(\d+)
+ls ~/folder/ | egrep -o*(\d+)
+ls ~/folder/ | egrep -o (\d+)
+ls ~/folder/ | 
+ls ~/folder/ | egrep -o (\d+)
+ls ~/folder/ | \d+
+ls ~/folder/ | seq \d+
+ls ~/folder/ | sed \d+
+ls ~/folder/ | sed ^\s+(\d+)
+ls ~/folder/ | sed \s+(\d+)
+ls ~/folder/ | sed
+ls ~/folder/ | sed -e 
+ls ~/folder/ | sed -e ^\s+
+ls ~/folder/ | egrep '[^0-9]
+ls ~/folder/ | egrep '[^0-9]'
+ls ~/folder/ | egrep '[^0-9]+'
+ls ~/folder/ | egrep '[^0-9]+*[!0-9]'
+ls ~/folder/ | egrep '([^0-9])+*[!0-9]'
+ls ~/folder/ | egrep '[0-9]+*[]'
+ls ~/folder/ | egrep '^[0-9]+*[]'
+ls ~/folder/ | egrep '[0-9]+*'
+ls ~/folder/ | egrep '^[0-9]+*'
+ls ~/folder/ | egrep -o '^[0-9]+*' | 
+ls ~/folder/ | egrep -o '^[0-9]+*' | sort -n
+ls ~/folder/*.sql | egrep -o '^[0-9]+*' | sort -n
+ls ~/folder/ | egrep -o '^[0-9]+*.sql' | sort -n
+ls ~/folder/[0-9]*.sql | egrep -o '^[0-9]+*' | sort -n
+ls ~/folder/ | egrep -o '^[0-9]+*.sql' | sort -n
+ls ~/folder/ | egrep -o '^[0-9]+*' | sort -n
+ls ~/folder/*.sql | egrep -o '^[0-9]+*' | sort -n
+ls ~/folder/ | grep *.sql  | egrep -o '^[0-9]+*' | sort -n
+ls ~/folder/ | grep -g  | egrep -o '^[0-9]+*' | sort -n
+ls ~/folder/ | grep -g *.sql | egrep -o '^[0-9]+*' | sort -n
+ls ~/folder/[0-9]*[!0-9]*.sql | egrep -o '^[0-9]+*' | sort -n
+ls ~/folder/ | grep *.sql  | egrep -o '^[0-9]+*' | sort -n
+ls ~/folder/ | egrep -o '^[0-9]+*.sql' | sort -n
+ls ~/folder/ | egrep -o '^[0-9]+*' | grep *.sql | sort -n
+ls ~/folder/ | egrep -o '^[0-9] | grep *.sql' | sort -n
+ls ~/folder/ | egrep -o '^[0-9]+.sql' | sort -n
+ls ~/folder/ | egrep -o '^[0-9] | grep .sql' | sort -n
+ls ~/folder/ | egrep -o '^[0-9]' | grep .sql' | sort -n
+
+ls ~/folder/ | grep .sql | egrep '^[0-9]+'
+ls ~/folder/ | grep .sql | egrep '^[0-9]+' | sort -n
+cd
+./logic.sh
+ls ~/folder/ | grep .sql | egrep '^[0-9]'
+ls ~/folder/ | grep .sql | egrep '^[0-9]+'
+ls ~/folder/ | grep .sql | egrep -o '^[0-9]+'
+./logic.sh
+ls ~/folder/ | grep .sql | egrep -o ^[0-9]+
+./logic.sh
+ls ~/folder/ | grep .sql | egrep -o ^[0-9]+ | sort -n
+./logic.sh
+sqlite3 /home/adminwa/folder/test1.db "UPDATE version SET versionID = $line WHERE versionID < $line"
+./logic.sh
+cd Documents/
+ls
+cd .. 
+ls
+cd sqlCommands/
+ls
+chmod +x ./1buildABase.sql 
+ls -l 1buildABase.sql 
+ls
+./1buildABase.sql 
+ls ~/folder/ | grep .sql | egrep -o ^[0-9]+ | sort -n 
+ls ~/folder/ | grep .sql | egrep  ^[0-9]+ | sort -n 
+ls ~/sqlCommands/ | grep .sql | egrep  ^[0-9]+ | sort -n 
+chmod +x ./2createTable.sql 
+chmod +x ./3stickItIn.sql 
+chmod +x ./4showItOff.sql 
+ls
+touch runCom.sh
+gedit runCom.sh 
+touch fList.txt
+ls
+ls grep [0-9]*.sql
+ls grep ^[0-9]*.sql
+ls| grep ^[0-9]*.sql
+ls grep [0-9]*.sql
+ls grep .sql | egrep ^[0-9]+
+ls |grep .sql | egrep ^[0-9]+
+./logic.sh
+cat fList.txt | egrep -o ^[0-9]+| tail -n 1)
+cat fList.txt | egrep -o ^[0-9]+| tail -n 1
+cat fList.txt
+./logic.sh
+cat fList.txt
+~/folder/ | grep [0-9]*.sql | egrep  ^[0-9]+
+ls ~/folder/ | grep [0-9]*.sql | egrep  ^[0-9]+
+ls ~/folder/ | grep .sql | egrep  ^[0-9]+
+./logic.sh
+cd
+./logic.sh
+cd /sqlCommands
+cd sqlCommands
+./logic.sh
+cat list
+cat Flist
+cat fFist
+cat fList
+ls
+cat fList.txt
+./logic.sh
+cd sqlCommnads
+cd sqlComman#]ds
+cd sqlCommands
+./logic.sh
+cd sqlCommnads
+cd sqlCommands
+./logic.sh
+ls ~/sqlCommands/ | grep .sql | egrep -o ^[0-9] 
+./logic.sh
+egrep -o ^[0-9] 1a.sql
